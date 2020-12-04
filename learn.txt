@@ -3,7 +3,6 @@ git add learn.txt
 git commit -m"learn"
 git status
 git log
-gitk
 git diff
 git push
 git checkout
