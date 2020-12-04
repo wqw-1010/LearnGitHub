@@ -6,3 +6,4 @@ git log
 gitk
 git diff
 git push
+git checkout
