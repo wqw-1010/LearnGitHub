@@ -4,3 +4,4 @@ git commit -m"learn"
 git status
 git diff
 git log
+git branch
