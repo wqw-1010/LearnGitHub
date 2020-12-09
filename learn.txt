@@ -1,6 +1,0 @@
-git init
-git add learn.txt
-git commit -m"learn"
-git status
-git log
-git branch
