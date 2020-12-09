@@ -7,3 +7,4 @@ git log
 pwd
 git branch
 git checkout
+gitk
