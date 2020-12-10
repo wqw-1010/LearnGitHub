@@ -1,6 +1,7 @@
 git init
 git add learn.txt
-git commit -m"learn"
+git commit -m"lea"
 git status
 git log
 git branch
+qianjiu
